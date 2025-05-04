@@ -1,12 +1,12 @@
 ### Hey there 👋 I'm Mustafa
 
-💻 Full-Stack Developer | 👨‍💼 Founder @ [Trisite Solutions](https://trisite.solutions)
+💻 Full-Stack Developer | 👨‍💼 Founder @ [Trisite Solutions](https://www.trisitesolutions.com/))
 
 🔭 Currently working on: Web apps, ERP systems, marketing tools & auction platforms  
 🌱 Learning: Web animations, AI integrations & scaling SaaS  
 💬 Ask me about: Vue, Angular, Tailwind, Python, Bubble.io, Nuxt  
 🚀 Fun fact: I can debug and vibe to Coke Studio at the same time 😎  
-📬 Reach me: mustafa@trisite.solutions
+📬 Reach me: mustafaezzi143@gmail.com
 
 ---
 
