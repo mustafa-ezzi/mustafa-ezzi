@@ -1,58 +1,86 @@
-### Hey there 👋 I'm Mustafa
+# Mustafa Ezzi
 
-💻 Full-Stack Developer | 👨‍💼 Founder @ [Trisite Solutions](https://www.trisitesolutions.com/))
+Full-Stack Developer & Founder at [Trisite Solutions](https://www.trisitesolutions.com/)  
+Building web apps, ERP systems, marketing tools & auction platforms from Karachi 🇵🇰
 
-🔭 Currently working on: Web apps, ERP systems, marketing tools & auction platforms  
-🌱 Learning: Web animations, AI integrations & scaling SaaS  
-💬 Ask me about: Vue, Angular, Tailwind, Python, Bubble.io, Nuxt  
-🚀 Fun fact: I can debug and vibe to Coke Studio at the same time 😎  
-📬 Reach me: mustafaezzi143@gmail.com
+📬 mustafaezzi143@gmail.com
 
 ---
 
-**🛠️ Stack I Use**
-- Frontend: Vue, Angular, Nuxt, Tailwind, Bootstrap, Bubble.io  
-- Backend: Node.js, Express, Firebase, Python  
-- Tools: Git, Docker, VS Code, Postman, Figma, Notion
+## About
+
+I'm a developer who enjoys working across the full stack — from crafting clean UIs to architecting backend systems. Currently deep into web animations, AI integrations, and scaling SaaS products. When I'm not pushing commits, I'm probably vibing to Coke Studio. 🎵
 
 ---
 
-[![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafa-ezzi&show_icons=true&theme=radical)](https://github.com/mustafa-ezzi)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mustafa-ezzi&theme=radical)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-ezzi&layout=compact&theme=radical)](https://github.com/mustafa-ezzi)
+## Featured Projects
+
+<!-- Add your top 2–3 projects here. Example format below: -->
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [Trisite Solutions](https://www.trisitesolutions.com/) | Web & digital solutions agency | Vue, Node.js, Firebase |
+| *(coming soon)* | Auction platform | Nuxt, Python, PostgreSQL |
+| *(coming soon)* | ERP system | Angular, Express, MSSQL |
+
+> Replace the placeholders above with your real project names, links, and descriptions.
 
 ---
 
-### 🛠️ Languages and Tools
+## Stack
+
+**Frontend**
+Vue · Angular · Nuxt · Tailwind · Bootstrap · Bubble.io · Ionic
+
+**Backend**
+Node.js · Express · Python · Django · Flask · Firebase
+
+**Data**
+MongoDB · MySQL · MSSQL · PostgreSQL
+
+**DevOps & Tools**
+Docker · Nginx · Git · AWS · Azure · Figma · Postman · VS Code
+
+---
+
+## GitHub Stats
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular.svg" height="40" alt="angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mssql/mssql-original.svg" height="40" alt="mssql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" alt="vuetify"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafa-ezzi&show_icons=true&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mustafa-ezzi&theme=default&hide_border=true" height="150" />
+</p>
+
+---
+
+## Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-ezzi&layout=compact&theme=default&hide_border=true)](https://github.com/mustafa-ezzi)
+
+---
+
+## Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="36" alt="Vue" title="Vue"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="36" alt="Nuxt" title="Nuxt"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular.svg" height="36" alt="Angular" title="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36" alt="Express" title="Express"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="36" alt="Django" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="36" alt="Flask" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="36" alt="Firebase" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="36" alt="Nginx" title="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36" alt="AWS" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="36" alt="Azure" title="Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="36" alt="Tailwind" title="Tailwind"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" alt="Bootstrap" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="36" alt="Sass" title="Sass"/>
 </p>
