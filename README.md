@@ -1,36 +1,43 @@
+<div align="center">
+
+## ME
+
 # Mustafa Ezzi
 
-Full-Stack Developer & Founder at [Trisite Solutions](https://www.trisitesolutions.com/)  
-Building web apps, ERP systems, marketing tools & auction platforms from Karachi 🇵🇰
+**Full-Stack Developer · Founder @ [Trisite Solutions](https://www.trisitesolutions.com/) · Karachi 🇵🇰**
 
-📬 mustafaezzi143@gmail.com
+![Vue](https://img.shields.io/badge/Vue-555?style=flat-square&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-555?style=flat-square&logo=angular&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-555?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-555?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-555?style=flat-square&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-555?style=flat-square&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-555?style=flat-square&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
-## About
+### About
 
-I'm a developer who enjoys working across the full stack — from crafting clean UIs to architecting backend systems. Currently deep into web animations, AI integrations, and scaling SaaS products. When I'm not pushing commits, I'm probably vibing to Coke Studio. 🎵
+Full-stack developer building web apps, ERP systems, marketing tools, and auction platforms. Currently exploring web animations, AI integrations, and SaaS scalability. Debugging to Coke Studio since day one. 🎵
 
 ---
 
-## Featured Projects
-
-<!-- Add your top 2–3 projects here. Example format below: -->
+### Featured Projects
 
 | Project | Description | Stack |
-|--------|-------------|-------|
-| [Trisite Solutions](https://www.trisitesolutions.com/) | Web & digital solutions agency | Vue, Node.js, Firebase |
-| *(coming soon)* | Auction platform | Nuxt, Python, PostgreSQL |
-| *(coming soon)* | ERP system | Angular, Express, MSSQL |
-
-> Replace the placeholders above with your real project names, links, and descriptions.
+|---|---|---|
+| [Trisite Solutions](https://www.trisitesolutions.com/) | Digital agency — web, branding & dev services | Vue · Node.js · Firebase |
+| Auction Platform | Real-time bidding & auction management system | Nuxt · Python · PostgreSQL |
+| ERP System | Enterprise resource planning platform for SMBs | Angular · Express · MSSQL |
 
 ---
 
-## Stack
+### Stack
 
 **Frontend**
-Vue · Angular · Nuxt · Tailwind · Bootstrap · Bubble.io · Ionic
+Vue · Angular · Nuxt · React · Tailwind · Bootstrap · Bubble.io
 
 **Backend**
 Node.js · Express · Python · Django · Flask · Firebase
@@ -43,44 +50,45 @@ Docker · Nginx · Git · AWS · Azure · Figma · Postman · VS Code
 
 ---
 
-## GitHub Stats
+### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafa-ezzi&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mustafa-ezzi&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafa-ezzi&show_icons=true&theme=default&hide_border=true&hide_title=true" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mustafa-ezzi&theme=default&hide_border=true" height="140" />
 </p>
-
----
-
-## Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-ezzi&layout=compact&theme=default&hide_border=true)](https://github.com/mustafa-ezzi)
 
 ---
 
-## Tools
+### Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="36" alt="Vue" title="Vue"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="36" alt="Nuxt" title="Nuxt"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular.svg" height="36" alt="Angular" title="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36" alt="Express" title="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="36" alt="Django" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="36" alt="Flask" title="Flask"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="36" alt="Firebase" title="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="36" alt="Nginx" title="Nginx"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36" alt="AWS" title="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="36" alt="Azure" title="Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="36" alt="Tailwind" title="Tailwind"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" alt="Bootstrap" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="36" alt="Sass" title="Sass"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32" title="Vue" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="32" title="Nuxt" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular.svg" height="32" title="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" title="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="32" title="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="32" title="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" title="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="32" title="Nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="32" title="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="32" title="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="32" title="Sass" />
 </p>
+
+---
+
+### Contact
+
+📬 mustafaezzi143@gmail.com &nbsp;·&nbsp; 🌐 [trisitesolutions.com](https://www.trisitesolutions.com/) &nbsp;·&nbsp; 💻 [github.com/mustafa-ezzi](https://github.com/mustafa-ezzi)
